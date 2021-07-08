@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><documents><Resp><Id>486441f5-7fa6-4676-b37d-ef29cfbdb1fe</Id><accountId>yowko</accountId><orderNo>Yowko16111800018</orderNo><mtaTransId>8800000006293669</mtaTransId><transAmt>3</transAmt><result>0000</result><respCode>0</respCode><transTime>20161118143324</transTime><completeTime>20161118150716</completeTime></Resp></documents>

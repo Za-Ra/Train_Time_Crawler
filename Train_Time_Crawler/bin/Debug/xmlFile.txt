@@ -1,0 +1,3659 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<TRADailyTrainTimeTableList xsi:schemaLocation="https://ptx.transportdata.tw/standard/schema/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://ptx.transportdata.tw/standard/schema/">
+  <UpdateTime>2021-07-08T06:07:53+08:00</UpdateTime> 
+  <UpdateInterval>1500</UpdateInterval> 
+  <SrcUpdateTime>2021-07-07T15:01:22+08:00</SrcUpdateTime> 
+  <SrcUpdateInterval>-1</SrcUpdateInterval> 
+  <TrainDate>2021-07-08</TrainDate> 
+<TrainTimetables>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1221</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>17:23</ArrivalTime> 
+  <DepartureTime>17:24</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>17:45</ArrivalTime> 
+  <DepartureTime>17:51</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1217</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>16:58</ArrivalTime> 
+  <DepartureTime>17:00</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>17:21</ArrivalTime> 
+  <DepartureTime>17:23</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1263</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>21:40</ArrivalTime> 
+  <DepartureTime>21:41</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>22:01</ArrivalTime> 
+  <DepartureTime>22:02</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1135</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>08:54</ArrivalTime> 
+  <DepartureTime>09:02</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>09:23</ArrivalTime> 
+  <DepartureTime>09:24</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1281</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID>1180</OverNightStationID> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。在竹北跨日。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>23:16</ArrivalTime> 
+  <DepartureTime>23:17</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>23:37</ArrivalTime> 
+  <DepartureTime>23:38</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2223</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>15:50</ArrivalTime> 
+  <DepartureTime>15:52</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>16:14</ArrivalTime> 
+  <DepartureTime>16:20</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2183</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>11:42</ArrivalTime> 
+  <DepartureTime>11:43</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>12:03</ArrivalTime> 
+  <DepartureTime>12:04</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2203</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>13:40</ArrivalTime> 
+  <DepartureTime>13:41</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>14:07</ArrivalTime> 
+  <DepartureTime>14:08</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2243</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>7360</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>瑞芳</Zh_tw> 
+  <En>Ruifang</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>20</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>17:40</ArrivalTime> 
+  <DepartureTime>17:41</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>24</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>18:01</ArrivalTime> 
+  <DepartureTime>18:02</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1257</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往三義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3190</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>三義</Zh_tw> 
+  <En>Sanyi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>21:13</ArrivalTime> 
+  <DepartureTime>21:14</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>21:34</ArrivalTime> 
+  <DepartureTime>21:35</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1137</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>09:09</ArrivalTime> 
+  <DepartureTime>09:11</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>09:32</ArrivalTime> 
+  <DepartureTime>09:34</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2163</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>09:42</ArrivalTime> 
+  <DepartureTime>09:43</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>10:03</ArrivalTime> 
+  <DepartureTime>10:03</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1121</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>07:16</ArrivalTime> 
+  <DepartureTime>07:17</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>07:38</ArrivalTime> 
+  <DepartureTime>07:39</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2253</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>18:32</ArrivalTime> 
+  <DepartureTime>18:33</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>18:56</ArrivalTime> 
+  <DepartureTime>19:02</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1177</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>7360</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>瑞芳</Zh_tw> 
+  <En>Ruifang</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>20</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>12:58</ArrivalTime> 
+  <DepartureTime>13:00</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>24</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>13:21</ArrivalTime> 
+  <DepartureTime>13:26</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1235</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>18:48</ArrivalTime> 
+  <DepartureTime>18:50</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>19:11</ArrivalTime> 
+  <DepartureTime>19:12</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1129</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>08:29</ArrivalTime> 
+  <DepartureTime>08:31</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>08:52</ArrivalTime> 
+  <DepartureTime>08:53</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2263</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID>4060</OverNightStationID> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。在民雄跨日。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>19:26</ArrivalTime> 
+  <DepartureTime>19:34</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>19:56</ArrivalTime> 
+  <DepartureTime>19:58</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>507</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1110</TrainTypeID> 
+  <TrainTypeCode>4</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>莒光(無身障座位)</Zh_tw> 
+  <En>Chu-Kuang Express</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新左營</TripHeadSign> 
+  <StartingStationID>0930</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>七堵</Zh_tw> 
+  <En>Qidu</En> 
+  </StartingStationName>
+  <EndingStationID>4340</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新左營</Zh_tw> 
+  <En>Xinzuoying</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>2</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>1</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>9</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>07:49</ArrivalTime> 
+  <DepartureTime>07:51</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>11</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>08:12</ArrivalTime> 
+  <DepartureTime>08:13</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2173</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>10:41</ArrivalTime> 
+  <DepartureTime>10:42</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>11:02</ArrivalTime> 
+  <DepartureTime>11:03</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2213</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>14:40</ArrivalTime> 
+  <DepartureTime>14:41</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>15:01</ArrivalTime> 
+  <DepartureTime>15:02</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2193</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>12:44</ArrivalTime> 
+  <DepartureTime>12:45</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>13:05</ArrivalTime> 
+  <DepartureTime>13:06</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>4225</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>7290</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>福隆</Zh_tw> 
+  <En>Fulong</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>26</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>22:29</ArrivalTime> 
+  <DepartureTime>22:30</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>30</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>22:51</ArrivalTime> 
+  <DepartureTime>22:52</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1187</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>14:00</ArrivalTime> 
+  <DepartureTime>14:02</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>14:23</ArrivalTime> 
+  <DepartureTime>14:25</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1131</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>0</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>逢週六、日及例假日停駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>08:11</ArrivalTime> 
+  <DepartureTime>08:12</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>08:40</ArrivalTime> 
+  <DepartureTime>08:42</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1117</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>07:01</ArrivalTime> 
+  <DepartureTime>07:02</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>07:23</ArrivalTime> 
+  <DepartureTime>07:24</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1211</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>16:24</ArrivalTime> 
+  <DepartureTime>16:25</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>16:53</ArrivalTime> 
+  <DepartureTime>16:54</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1207</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>16:04</ArrivalTime> 
+  <DepartureTime>16:10</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>16:31</ArrivalTime> 
+  <DepartureTime>16:32</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1251</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>20:25</ArrivalTime> 
+  <DepartureTime>20:26</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>20:52</ArrivalTime> 
+  <DepartureTime>20:53</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1147</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>10:01</ArrivalTime> 
+  <DepartureTime>10:03</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>10:24</ArrivalTime> 
+  <DepartureTime>10:25</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2153</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>08:47</ArrivalTime> 
+  <DepartureTime>08:48</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>09:08</ArrivalTime> 
+  <DepartureTime>09:08</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1271</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>22:05</ArrivalTime> 
+  <DepartureTime>22:07</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>22:28</ArrivalTime> 
+  <DepartureTime>22:30</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1191</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>14:10</ArrivalTime> 
+  <DepartureTime>14:11</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>14:31</ArrivalTime> 
+  <DepartureTime>14:32</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1181</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>13:22</ArrivalTime> 
+  <DepartureTime>13:23</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>13:43</ArrivalTime> 
+  <DepartureTime>13:44</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2011</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1132</TrainTypeID> 
+  <TrainTypeCode>10</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間快</Zh_tw> 
+  <En>Fast Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往彰化</TripHeadSign> 
+  <StartingStationID>0930</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>七堵</Zh_tw> 
+  <En>Qidu</En> 
+  </StartingStationName>
+  <EndingStationID>3360</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>彰化</Zh_tw> 
+  <En>Changhua</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>9</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>05:53</ArrivalTime> 
+  <DepartureTime>05:54</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>13</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>06:14</ArrivalTime> 
+  <DepartureTime>06:15</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1241</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>19:45</ArrivalTime> 
+  <DepartureTime>19:47</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>20:07</ArrivalTime> 
+  <DepartureTime>20:08</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>561</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1111</TrainTypeID> 
+  <TrainTypeCode>4</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>莒光(有身障座位)</Zh_tw> 
+  <En>Chu-Kuang Express</En> 
+  </TrainTypeName>
+  <TripHeadSign>往潮州</TripHeadSign> 
+  <StartingStationID>7000</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>花蓮</Zh_tw> 
+  <En>Hualien</En> 
+  </StartingStationName>
+  <EndingStationID>5050</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>潮州</Zh_tw> 
+  <En>Chaozhou</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>2</TripLine> 
+  <WheelChairFlag>1</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>1</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>22</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>14:16</ArrivalTime> 
+  <DepartureTime>14:18</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>24</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>14:39</ArrivalTime> 
+  <DepartureTime>14:40</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1151</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>10:21</ArrivalTime> 
+  <DepartureTime>10:23</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>10:45</ArrivalTime> 
+  <DepartureTime>10:51</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2233</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>7360</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>瑞芳</Zh_tw> 
+  <En>Ruifang</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>20</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>16:41</ArrivalTime> 
+  <DepartureTime>16:42</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>24</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>17:03</ArrivalTime> 
+  <DepartureTime>17:04</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1197</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>15:03</ArrivalTime> 
+  <DepartureTime>15:04</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>15:24</ArrivalTime> 
+  <DepartureTime>15:25</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1227</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>17:49</ArrivalTime> 
+  <DepartureTime>17:50</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>18:10</ArrivalTime> 
+  <DepartureTime>18:12</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>4027</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1132</TrainTypeID> 
+  <TrainTypeCode>10</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間快</Zh_tw> 
+  <En>Fast Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往湖口</TripHeadSign> 
+  <StartingStationID>7130</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>蘇澳新</Zh_tw> 
+  <En>Su'aoxin</En> 
+  </StartingStationName>
+  <EndingStationID>1160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>湖口</Zh_tw> 
+  <En>Hukou</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>14</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>19:02</ArrivalTime> 
+  <DepartureTime>19:04</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>18</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>19:25</ArrivalTime> 
+  <DepartureTime>19:26</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>4221</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>7120</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>蘇澳</Zh_tw> 
+  <En>Su'ao</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>43</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>21:47</ArrivalTime> 
+  <DepartureTime>21:48</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>47</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>22:09</ArrivalTime> 
+  <DepartureTime>22:10</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1107</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0930</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>七堵</Zh_tw> 
+  <En>Qidu</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>16</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>06:13</ArrivalTime> 
+  <DepartureTime>06:14</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>20</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>06:35</ArrivalTime> 
+  <DepartureTime>06:36</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1201</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>15:24</ArrivalTime> 
+  <DepartureTime>15:25</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>15:46</ArrivalTime> 
+  <DepartureTime>15:51</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2143</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>07:40</ArrivalTime> 
+  <DepartureTime>07:41</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>08:02</ArrivalTime> 
+  <DepartureTime>08:03</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1239</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>0930</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>七堵</Zh_tw> 
+  <En>Qidu</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>0</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>逢週六、日及例假日停駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>16</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>18:53</ArrivalTime> 
+  <DepartureTime>18:55</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>20</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>19:17</ArrivalTime> 
+  <DepartureTime>19:18</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>4103</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>7190</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>宜蘭</Zh_tw> 
+  <En>Yilan</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>36</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>07:25</ArrivalTime> 
+  <DepartureTime>07:26</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>40</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>07:48</ArrivalTime> 
+  <DepartureTime>07:54</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1231</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>18:10</ArrivalTime> 
+  <DepartureTime>18:11</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>18:32</ArrivalTime> 
+  <DepartureTime>18:33</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>653</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1111</TrainTypeID> 
+  <TrainTypeCode>4</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>莒光(有身障座位)</Zh_tw> 
+  <En>Chu-Kuang Express</En> 
+  </TrainTypeName>
+  <TripHeadSign>往彰化</TripHeadSign> 
+  <StartingStationID>6000</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>臺東</Zh_tw> 
+  <En>Taitung</En> 
+  </StartingStationName>
+  <EndingStationID>3360</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>彰化</Zh_tw> 
+  <En>Changhua</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>2</TripLine> 
+  <WheelChairFlag>1</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>1</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>41</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>19:56</ArrivalTime> 
+  <DepartureTime>20:04</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>43</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>20:25</ArrivalTime> 
+  <DepartureTime>20:27</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>513</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1110</TrainTypeID> 
+  <TrainTypeCode>4</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>莒光(無身障座位)</Zh_tw> 
+  <En>Chu-Kuang Express</En> 
+  </TrainTypeName>
+  <TripHeadSign>往潮州</TripHeadSign> 
+  <StartingStationID>0930</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>七堵</Zh_tw> 
+  <En>Qidu</En> 
+  </StartingStationName>
+  <EndingStationID>5050</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>潮州</Zh_tw> 
+  <En>Chaozhou</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>2</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>1</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>8</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>11:54</ArrivalTime> 
+  <DepartureTime>11:55</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>10</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>12:16</ArrivalTime> 
+  <DepartureTime>12:17</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2133</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往嘉義</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>4080</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>嘉義</Zh_tw> 
+  <En>Chiayi</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>06:32</ArrivalTime> 
+  <DepartureTime>06:33</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>07:01</ArrivalTime> 
+  <DepartureTime>07:02</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>4183</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往湖口</TripHeadSign> 
+  <StartingStationID>7120</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>蘇澳</Zh_tw> 
+  <En>Su'ao</En> 
+  </StartingStationName>
+  <EndingStationID>1160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>湖口</Zh_tw> 
+  <En>Hukou</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>43</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>17:09</ArrivalTime> 
+  <DepartureTime>17:10</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>47</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>17:30</ArrivalTime> 
+  <DepartureTime>17:31</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>4235</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>7190</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>宜蘭</Zh_tw> 
+  <En>Yilan</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>36</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>23:01</ArrivalTime> 
+  <DepartureTime>23:02</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>40</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>23:22</ArrivalTime> 
+  <DepartureTime>23:23</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1109</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>1040</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>樹林</Zh_tw> 
+  <En>Shulin</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>5</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>05:35</ArrivalTime> 
+  <DepartureTime>05:36</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>9</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>05:56</ArrivalTime> 
+  <DepartureTime>05:57</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1127</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>08:00</ArrivalTime> 
+  <DepartureTime>08:02</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>08:23</ArrivalTime> 
+  <DepartureTime>08:24</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>2273</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往彰化</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3360</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>彰化</Zh_tw> 
+  <En>Changhua</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>20:48</ArrivalTime> 
+  <DepartureTime>20:49</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>21:10</ArrivalTime> 
+  <DepartureTime>21:16</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1267</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>22:17</ArrivalTime> 
+  <DepartureTime>22:18</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>22:39</ArrivalTime> 
+  <DepartureTime>22:40</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1171</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>7360</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>瑞芳</Zh_tw> 
+  <En>Ruifang</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>20</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>12:35</ArrivalTime> 
+  <DepartureTime>12:37</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>24</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>12:58</ArrivalTime> 
+  <DepartureTime>12:59</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1157</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>10:59</ArrivalTime> 
+  <DepartureTime>11:00</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>11:20</ArrivalTime> 
+  <DepartureTime>11:21</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1237</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往苗栗</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>3160</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>苗栗</Zh_tw> 
+  <En>Miaoli</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>1</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>19:12</ArrivalTime> 
+  <DepartureTime>19:20</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>19:42</ArrivalTime> 
+  <DepartureTime>19:43</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1161</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新竹</TripHeadSign> 
+  <StartingStationID>0900</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>基隆</Zh_tw> 
+  <En>Keelung</En> 
+  </StartingStationName>
+  <EndingStationID>1210</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新竹</Zh_tw> 
+  <En>Hsinchu</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>1</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>19</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>11:21</ArrivalTime> 
+  <DepartureTime>11:22</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>23</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>11:42</ArrivalTime> 
+  <DepartureTime>11:43</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>521</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1110</TrainTypeID> 
+  <TrainTypeCode>4</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>莒光(無身障座位)</Zh_tw> 
+  <En>Chu-Kuang Express</En> 
+  </TrainTypeName>
+  <TripHeadSign>往新左營</TripHeadSign> 
+  <StartingStationID>0930</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>七堵</Zh_tw> 
+  <En>Qidu</En> 
+  </StartingStationName>
+  <EndingStationID>4340</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>新左營</Zh_tw> 
+  <En>Xinzuoying</En> 
+  </EndingStationName>
+  <OverNightStationID /> 
+  <TripLine>2</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>1</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>8</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>16:46</ArrivalTime> 
+  <DepartureTime>16:48</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>10</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>17:09</ArrivalTime> 
+  <DepartureTime>17:11</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+<TrainTimetable>
+<TrainInfo>
+  <TrainNo>1283</TrainNo> 
+  <RouteID /> 
+  <Direction>1</Direction> 
+  <TrainTypeID>1131</TrainTypeID> 
+  <TrainTypeCode>6</TrainTypeCode> 
+<TrainTypeName>
+  <Zh_tw>區間</Zh_tw> 
+  <En>Local Train</En> 
+  </TrainTypeName>
+  <TripHeadSign>往北湖</TripHeadSign> 
+  <StartingStationID>0990</StartingStationID> 
+<StartingStationName>
+  <Zh_tw>松山</Zh_tw> 
+  <En>Songshan</En> 
+  </StartingStationName>
+  <EndingStationID>1150</EndingStationID> 
+<EndingStationName>
+  <Zh_tw>北湖</Zh_tw> 
+  <En>Beihu</En> 
+  </EndingStationName>
+  <OverNightStationID>1130</OverNightStationID> 
+  <TripLine>0</TripLine> 
+  <WheelChairFlag>0</WheelChairFlag> 
+  <PackageServiceFlag>0</PackageServiceFlag> 
+  <DiningFlag>0</DiningFlag> 
+  <BreastFeedFlag>0</BreastFeedFlag> 
+  <BikeFlag>0</BikeFlag> 
+  <CarFlag xsi:nil="true" /> 
+  <DailyFlag>1</DailyFlag> 
+  <ExtraTrainFlag>0</ExtraTrainFlag> 
+  <Note>每日行駛。在富岡跨日。</Note> 
+  </TrainInfo>
+<StopTimes>
+<StopTime>
+  <StopSequence>10</StopSequence> 
+  <StationID>1080</StationID> 
+<StationName>
+  <Zh_tw>桃園</Zh_tw> 
+  <En>Taoyuan</En> 
+  </StationName>
+  <ArrivalTime>23:37</ArrivalTime> 
+  <DepartureTime>23:38</DepartureTime> 
+  </StopTime>
+<StopTime>
+  <StopSequence>14</StopSequence> 
+  <StationID>1120</StationID> 
+<StationName>
+  <Zh_tw>楊梅</Zh_tw> 
+  <En>Yangmei</En> 
+  </StationName>
+  <ArrivalTime>23:58</ArrivalTime> 
+  <DepartureTime>23:59</DepartureTime> 
+  </StopTime>
+  </StopTimes>
+  </TrainTimetable>
+  </TrainTimetables>
+  <Count xsi:nil="true" /> 
+  </TRADailyTrainTimeTableList>
