@@ -43,9 +43,10 @@
             // label_Now_Time
             // 
             this.label_Now_Time.AutoSize = true;
-            this.label_Now_Time.Location = new System.Drawing.Point(39, 49);
+            this.label_Now_Time.Font = new System.Drawing.Font("Microsoft JhengHei", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.label_Now_Time.Location = new System.Drawing.Point(17, 25);
             this.label_Now_Time.Name = "label_Now_Time";
-            this.label_Now_Time.Size = new System.Drawing.Size(110, 24);
+            this.label_Now_Time.Size = new System.Drawing.Size(157, 34);
             this.label_Now_Time.TabIndex = 0;
             this.label_Now_Time.Text = "XX : XX : XX";
             // 

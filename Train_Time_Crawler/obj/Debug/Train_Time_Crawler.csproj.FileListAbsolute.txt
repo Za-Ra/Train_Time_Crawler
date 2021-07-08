@@ -7,3 +7,12 @@ D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Train_Time_Crawler\Train_Time_Crawl
 D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Train_Time_Crawler\Train_Time_Crawler\bin\Debug\Train_Time_Crawler.pdb
 D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.exe
 D:\[Scott]\[10][Visual_Studio]\[C#]\[Others]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.pdb
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\bin\Debug\Train_Time_Crawler.exe.config
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.exe
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.pdb
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\bin\Debug\Train_Time_Crawler.exe
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\bin\Debug\Train_Time_Crawler.pdb
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.csprojResolveAssemblyReference.cache
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.Train_Time_Crawler.resources
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.Properties.Resources.resources
+D:\[Scott]\[11][Git]\Train_Time_Crawler\Train_Time_Crawler\obj\Debug\Train_Time_Crawler.csproj.GenerateResource.Cache
