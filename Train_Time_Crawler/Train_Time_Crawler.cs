@@ -164,6 +164,8 @@ namespace Train_Time_Crawler
                         {
                             if (T_Minute > DateTime.Now.Minute)
                             {
+                                if (Info_TIME_NO[1].Length < 4)
+                                    Info_TIME_NO[1] = "  " + Info_TIME_NO[1];
                                 string sndmsg = Info_TIME_NO[1] + "                    " + Info_TIME_NO[0];
                                 New_Thread_Renew_Msg("label_Train_Time_" + only_3_Data + "," + sndmsg);
                                 //Control[] label_Target = this.Controls.Find("label_Train_Time_" + only_3_Data, true);
