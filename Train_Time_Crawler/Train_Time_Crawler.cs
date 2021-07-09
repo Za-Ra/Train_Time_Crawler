@@ -54,9 +54,6 @@ namespace Train_Time_Crawler
             ShowNowTime_Thread = new Thread(ShowNowTime);
             ShowNowTime_Thread.Start();
 
-            
-
-
             useWebBrowser();
         }
 
@@ -73,6 +70,7 @@ namespace Train_Time_Crawler
                 string sendMsg = "label_Now_Time," + DateTime.Now.ToString("HH:mm:ss");
                 New_Thread_Renew_Msg(sendMsg);
                 Thread.Sleep(250);
+
                 if (DateTime.Now.ToString("mm") == "00" || DateTime.Now.ToString("mm") == "30")
                 {
                     if (!alreadyDone)
@@ -193,6 +191,33 @@ namespace Train_Time_Crawler
             }
 
 
+        }
+
+        private bool TaoYuanToYangMei = true;
+        private void button_Swap_Station_Click(object sender, EventArgs e)
+        {
+            TaoYuanToYangMei = !TaoYuanToYangMei;
+            if (TaoYuanToYangMei)
+            {
+                OriginStationID = "1080/";
+                DestinationStationID = "1120/";
+                label_OriginStationID.Text = "桃園";
+                label_DestinationStationID.Text = "楊梅";
+                pictureBox_YangMei.Location = new System.Drawing.Point(353, 25);
+                pictureBox_TaoYuan.Location = new System.Drawing.Point(199, 25);
+
+            }
+            else
+            {
+                OriginStationID = "1120/";
+                DestinationStationID = "1080/";
+                label_OriginStationID.Text = "楊梅";
+                label_DestinationStationID.Text = "桃園";
+                pictureBox_YangMei.Location = new System.Drawing.Point(199, 25);
+                pictureBox_TaoYuan.Location = new System.Drawing.Point(353, 25);
+            }
+
+            useWebBrowser();
         }
 
         /*
